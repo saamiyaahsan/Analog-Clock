@@ -37,7 +37,8 @@
 }
 
 footer{
-  background-color : rgb(253, 126, 190);
+  background-color : black;
   font-size : 23px;
-  color : rgba(14, 235, 40, 0.674);  
+  color : white;
+  text-align : center;  
 }
